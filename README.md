@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Justin, and I am a graduate of Cybersecurity Engineering from the University of North Texas.
 
 <!--
 **JustinBreedlove/JustinBreedlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
